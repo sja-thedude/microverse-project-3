@@ -25,7 +25,7 @@ header {
   #header-img{
     margin-top: 15px;
     width: 100%
-    psition: relative;
+    position: relative;
   }
 }
 
@@ -46,6 +46,8 @@ header {
     position: relative;
   }
 }
+
+
 
 .logo > img {
   width: 100%;
