@@ -19,7 +19,7 @@ header {
   background-color: #aaa;
 }
 
-@media(max-width:650px) {
+@media (max-width:650px) {
   #header-img{
     margin-top: 15px;
     width: 100%
