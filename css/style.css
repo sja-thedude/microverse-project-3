@@ -1,5 +1,28 @@
+body {
+  background-color:#aaa;
+  font-family: 'Lato', sans-serif;
+}
+
 @media (max-width: 600px){
   header {
     flex-wrap:wrap;
+  }
+}
+
+header {
+  position: fixed;
+  top= 0;
+  min-height: 75px;
+  padding: 0px 20px;
+  display: flex;
+  justify-content: space-around;
+  background-color: #aaa;
+}
+
+@media(max-width:650px) {
+  #header-img{
+    margin-top: 15px;
+    width: 100%
+    psition: relative;
   }
 }
